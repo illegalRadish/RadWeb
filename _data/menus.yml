@@ -5,7 +5,6 @@
   url:   "category"
 
 - title: "Projects"
-  absoluteUrl: true
   url: "projects"
 
 - default: menu_about
