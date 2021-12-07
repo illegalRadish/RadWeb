@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
+I'm Jacob, I have many hobbies including but not limited to: longboarding, gunpla, model kits, video games, tech, and basic (very basic) coding/programming. I saw that github lets you make a free static webpage and decided to take a crack at it!
 
-You can find more information in [Jekyll Paper][jekyll-paper]. If you have any questions or suggestions, you can contact me in [Jekyll Paper Issues][jekyll-paper-issues] or send email to [me](mailto:i@ghosind.com). Wish you enjoying your blog life!
+You can find all my socials on this linktree: [https://linktr.ee/borealblizzard](https://linktr.ee/borealblizzard)
 
 [jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
 [jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
